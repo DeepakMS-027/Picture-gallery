@@ -26,7 +26,8 @@ The project focuses on clean UI, fast performance, and a smooth user experience.
 
 ## 📸 Screenshots
 
-_Add screenshots of your project here_
+<img width="1851" height="955" alt="image" src="https://github.com/user-attachments/assets/ed080592-bb8b-4d5b-b1fd-6d551d656317" />
+
 
 ---
 
@@ -35,3 +36,4 @@ _Add screenshots of your project here_
 1. Clone the repository
 ```bash
 git clone https://github.com/DeepakMS-027/Picture-gallery.git
+
